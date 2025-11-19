@@ -118,7 +118,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## Current Sprint Status
 **Sprint 1 - Week 1**  
- [View Project Board](https://github.com/YOUR-USERNAME/openbank-devops/projects/1)
+ [View Project Board](https://github.com/Sekani-27/openbank-devops/projects?query=is%3Aopen)
 
 **User Stories:**
 - [ ] User Registration
