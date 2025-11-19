@@ -114,7 +114,7 @@ openbank-devops/
 5. **Get review** from teammate
 6. **Merge** after approval
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+See [CONTRIBUTING.md](https://github.com/Sekani-27/openbank-devops/blob/main/CONTRIBUTING.md) for detailed guidelines.
 
 ## Current Sprint Status
 **Sprint 1 - Week 1**  
@@ -129,7 +129,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - [ ] Transaction History
 
 ##  Documentation
-- [Contributing Guide](CONTRIBUTING.md)
+- [Contributing Guide](https://github.com/Sekani-27/openbank-devops/blob/main/CONTRIBUTING.md)
 - [API Documentation](docs/API.md) - Coming Week 2
 - [Testing Plan](docs/TESTING_PLAN.md) - Coming Week 2
 
