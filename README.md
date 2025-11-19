@@ -65,7 +65,7 @@ Git
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/YOUR-USERNAME/openbank-devops.git
+git clone https://github.com/Sekani-27/openbank-devops.git
 cd openbank-devops
 
 # Backend setup
