@@ -153,11 +153,6 @@ By completing this project, the team will:
 **Current Sprint:** Week 1 - Agile Planning & Code Foundation
 ```
 
-5. Scroll down
-6. Commit message: `docs: update README with project details`
-7. Select: **"Commit directly to the `develop` branch"**
-8. Click **"Commit changes"**
-
 ---
 
 ##  YOUR DAY 1 CHECKLIST
