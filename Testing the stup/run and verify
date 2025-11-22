@@ -1,0 +1,21 @@
+Start Backend (Terminal 1)
+
+cd backend
+npm run dev
+
+# Expected output:
+# OpenBank Backend running on port 5000
+
+
+Start Frontend (Terminal 2)
+cd frontend
+npm start
+
+# Browser should open at http://localhost:3000
+
+
+Success Criteria:
+
+Backend shows "OpenBank API is running"
+Frontend displays OpenBank interface
+Status shows backend is connected
