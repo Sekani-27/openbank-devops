@@ -149,7 +149,7 @@ By completing this project, the team will:
 
 ---
 
-**Last Updated:** [Today's Date]  
+ 
 **Current Sprint:** Week 1 - Agile Planning & Code Foundation
 ```
 
