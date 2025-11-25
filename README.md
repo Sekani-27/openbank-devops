@@ -23,7 +23,7 @@ A 4-week project to build a full-stack banking application while mastering:
 ## Tech Stack
 | Layer | Technology |
 |-------|-----------|
-| Frontend | React, React Router, Axios |
+| Frontend | React |
 | Backend | Node.js, Express.js |
 | Database | MongoDB |
 | DevOps | Git, GitHub Actions, Docker, Kubernetes |
