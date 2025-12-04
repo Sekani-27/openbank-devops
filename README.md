@@ -31,13 +31,13 @@ A 4-week project to build a full-stack banking application while mastering:
 
 ##  Sprint Timeline
 
-###  Week 1: Agile Planning & Code Foundation (Current)
+###  Week 1: Agile Planning & Code Foundation 
 - Set up Agile board with user stories
 - Create GitHub repo with branch strategy
 - Build backend and frontend skeletons
 - Implement code review workflow
 
-### Week 2: Build, Test & Containerize
+### Week 2: Build, Test & Containerize (Current)
 - Implement backend APIs
 - Build frontend components
 - Apply Test-Driven Development
