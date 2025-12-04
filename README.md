@@ -24,7 +24,7 @@ A 4-week project to build a full-stack banking application while mastering:
 | Layer | Technology |
 |-------|-----------|
 | Frontend | React |
-| Backend | Node.js, Express.js |
+| Backend | FastAPI Express.js |
 | Database | MongoDB |
 | DevOps | Git, GitHub Actions, Docker, Kubernetes |
 | Monitoring | Prometheus, Grafana |
